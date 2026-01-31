@@ -6,6 +6,10 @@ This project includes **only** the PCB and the enclosure; it does **not** includ
 
 <span style="color:red">**WARNING: This project is intended for advanced users. It is meant for further expansion and modification.**</span>
 
+## Versions
+
+Two enclosure versions are provided: one as a kitchen radio with speakers, and another with an RCA output for connecting to an external amplifier.
+
 ### RCA Version
 
 <img src="images/w1.jpg">
@@ -22,10 +26,6 @@ This project includes **only** the PCB and the enclosure; it does **not** includ
 <img src="images/x2.jpg">
 
 <img src="images/x3.jpg">
-
-## Versions
-
-Two enclosure versions are provided: one as a kitchen radio with speakers, and another with an RCA output for connecting to an external amplifier.
 
 ## Key components
 
