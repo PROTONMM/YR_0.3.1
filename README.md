@@ -31,6 +31,10 @@ Two enclosure versions are provided: one as a kitchen radio with speakers, and a
 
 The design was created around a few specific key parts; using other variants may require adjusting the enclosure and the PCB accordingly.
 
+### Display
+
+Only for SSD1322 display
+
 ### Encoder
 
 <img src="images/encoder.avif" width="400" height="400">
